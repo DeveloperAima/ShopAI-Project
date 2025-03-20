@@ -1,0 +1,15 @@
+.hero-section {
+  padding: 50px;
+  background-color: #f8f9fa;
+}
+.card {
+  margin: 20px;
+}
+footer {
+  margin-top: 50px;
+}
+* {
+  outline: none !important;
+}
+
+
